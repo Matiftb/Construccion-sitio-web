@@ -1,3 +1,9 @@
+.navbar .icon{
+  display: none;
+}
+
+
+
 
   
   
@@ -101,3 +107,4 @@
       margin-top: 7rem;
     }
   }
+ 
